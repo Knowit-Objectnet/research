@@ -11,3 +11,4 @@ Om prosjektet: https://research.lab.knowit.no/projects/kairos-samspill-mennesker
 | Mappe | Arrangement |
 |-------|-------------|
 | `20260601_konferanse_samtaler_om_fremtidens_programvareutvikling/` | Kairos: Samtaler om fremtidens programvareutvikling, Son Spa, 1.–2. juni 2026 |
+| `20261006_fagdag_tet_digital/` | Fagdag hos Tet Digital, 6. oktober 2026 |
